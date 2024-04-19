@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm learning how to program all by myself <br>I'm currently learning Go<br>Fun fact I'm 3x gold full time music producer
+I'm learning how to program all by myself <br>I'm currently learning Go<br>Fun fact I'm 3x gold ex music producer
 
 
 ## 🌐 Socials:
