@@ -9,6 +9,3 @@ I'm learning how to program all by myself <br>I'm currently learning Go and I'm 
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=mvstermind&icon=0&color=0)](https://visitcount.itsvg.in)
-
