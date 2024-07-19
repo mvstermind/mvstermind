@@ -1,4 +1,9 @@
-## About Me
+### About Me
 
-Junior Developer with a love for building CLI tools in Go.
-Currently learning rust :3
+**Junior Developer writing cli tools.**  
+**Currently exploring Rust :3**
+
+skilz in
+
+[![](https://skillicons.dev/icons?i=rust,python,go)](https://skillicons.dev)
+
