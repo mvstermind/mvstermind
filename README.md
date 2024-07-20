@@ -1,9 +1,9 @@
 ### About Me
 
 **Junior Developer writing cli tools.**  
-**Currently exploring Rust :3**
+**Currently exploring low level world:3**
 
 skilz in
 
-[![](https://skillicons.dev/icons?i=rust,python,go)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=go,python)](https://skillicons.dev)
 
