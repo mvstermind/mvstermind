@@ -12,7 +12,7 @@ skillz in:
 ### sum  fun facts:
 
 - if i come up with idea to build something i'll 100% do it in Go no matter what (nowdays i might consider using rust )
-- my code is 60% comments 30% random syntax words and 10% hoping it works
+- my code is 30% comments 60% random syntax words and 10% hoping it works
 - motto: "commit like nobody's watching, push like it never fails"
 - `println!("")` debugging enjoyer
 
