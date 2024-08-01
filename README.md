@@ -1,9 +1,24 @@
-### About Me
+### about me
 
-**Junior Developer writing cli tools.**  
-**Currently learning getting PhD in Borrow Checker :3**
+**just dude conjuring CLI tomfoolery.**  
+**currently battling the Borrow Checker for my PhD :3**
 
-skilz in
+skillz in:
 
-[![](https://skillicons.dev/icons?i=go,rust,python)](https://skillicons.dev)
+[![My Skillz](https://skillicons.dev/icons?i=go,rust,python)](https://skillicons.dev)
+
+> **i consider using python as a geniue mistake**  
+
+### sum  fun facts:
+
+- if i come up with idea to build something i'll 100% do it in Go no matter what (nowdays i might consider using rust )
+- my code is 60% comments 30% random syntax words and 10% hoping it works
+- motto: "commit like nobody's watching, push like it never fails"
+- `println!("")` debugging enjoyer
+
+### why i'm here
+
+i'm here for the lulz, to break stuff, and sometimes fix things by accident, just enjoy my time. yeah i might write shit ton of spaghetti, unmaintable code with epic commit messages, but this shit gives me so much fun so yeah...
+feel free to peek at my repos, fork them, star them, or just laugh at my pain idc.
+
 
