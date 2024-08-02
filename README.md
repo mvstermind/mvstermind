@@ -1,17 +1,17 @@
 ### about me
 
 **just dude conjuring CLI tomfoolery.**  
-**currently battling the Borrow Checker for my PhD :3**
+**Go enjoyer**
 
 skillz in:
 
-[![My Skillz](https://skillicons.dev/icons?i=go,rust,python)](https://skillicons.dev)
+[![My Skillz](https://skillicons.dev/icons?i=go,lua,python)](https://skillicons.dev)
 
 > **i consider using python as a geniue mistake**  
 
 ### sum  fun facts:
 
-- if i come up with idea to build something i'll 100% do it in Go no matter what (nowdays i might consider using rust )
+- if i come up with idea to build something i'll 100% do it in Go no matter what
 - my code is 30% comments 60% random syntax words and 10% hoping it works
 - motto: "commit like nobody's watching, push like it never fails"
 - `println!("")` debugging enjoyer
