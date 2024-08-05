@@ -1,8 +1,8 @@
 ![about me](./about-me.png)
+<br><br>
+**just dude conjuring CLI tomfoolery and go enjoyer.**  
 
-**just dude conjuring CLI tomfoolery.**  
-**Go dev**
-
+<br><br>
 ![SMASHIIIIN](./pow-pow.jpg)
 
 ### sum  fun facts:
