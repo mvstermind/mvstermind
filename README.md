@@ -5,9 +5,9 @@
 
 skillz in:
 
-[![My Skillz](https://skillicons.dev/icons?i=go,zig,python)](https://skillicons.dev)
+[![My Skillz](https://skillicons.dev/icons?i=go,zig)](https://skillicons.dev)
 
-> **i consider using python as a geniue mistake**  
+
 
 ### sum  fun facts:
 
