@@ -1,20 +1,17 @@
 ### about me
 
 **just dude conjuring CLI tomfoolery.**  
-**Go and Zig enjoyer**
+**Go dev**
 
-skillz in:
-
-[![My Skillz](https://skillicons.dev/icons?i=go,zig)](https://skillicons.dev)
-
-
+![SMASHIIIIN](./pow-pow.jpg)
 
 ### sum  fun facts:
 
-- if i come up with idea to build something i'll 100% do it in Go no matter what (i'll consider zig nowdays)
-- my code is 30% comments 60% random syntax words and 10% hoping it works
+- i consider go as the best tool for every task
+- my code is 20% comments 60% random syntax words and 20% hoping it works
 - motto: "commit like nobody's watching, push like it never fails"
-- `println!("")` debugging enjoyer
+- i use vim (btw)
+- `fmt.Println!("")` debugging enjoyer
 
 ### why i'm here
 
