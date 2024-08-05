@@ -1,4 +1,4 @@
-### about me
+![about me](./about-me.png)
 
 **just dude conjuring CLI tomfoolery.**  
 **Go dev**
