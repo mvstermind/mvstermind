@@ -18,4 +18,4 @@
 i'm here for the lulz, to break stuff, and sometimes fix things by accident, just enjoy my time. yeah i might write shit ton of spaghetti, unmaintable code with epic commit messages, but this shit gives me so much fun so yeah...
 feel free to peek at my repos, fork them, star them, or just laugh at my pain idc.
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/M3M0RYR3B00T.png" alt="TryHackMe">
