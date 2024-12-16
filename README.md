@@ -1,6 +1,8 @@
-mentally unstable, eternally lost.  
+› mentally unstable.
+<br>
+› rust. lua. go.  
+› building things that outlive me.  
 
-rust. lua. go.  
-code is the only escape.  
+› code doesn’t judge.  
+› people do.  
 
-// 404: Sanity Not Found
