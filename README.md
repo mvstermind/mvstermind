@@ -1,5 +1,6 @@
-mentaly insane
+mentally unstable, eternally lost.  
 
-pentesting / red teaming / backend enjoyer
+rust. lua. go.  
+code is the only escape.  
 
-go + rust ftw
+// 404: Sanity Not Found
