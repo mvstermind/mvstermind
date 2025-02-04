@@ -1,8 +1,9 @@
-› mentally unstable.
-<br>
-› python. rust. lua. go.  
-› building things that outlive me.  
+⨳ mentally unstable  
+⨳ void walker 
+⨳ c • c++ • python • rust • lua • go  
 
-› code doesn’t judge.  
-› people do.  
+⨳ forging artifacts to outlive me  
+⨳ architect of breaches | sculptor of exploits  
 
+⨳ trust is a vulnerability.
+⨳ exploits aren’t just for machines.  
