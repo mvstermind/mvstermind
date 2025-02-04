@@ -15,7 +15,7 @@
 ![morality](https://img.shields.io/badge/morality-null-000000?style=for-the-badge)  
 
 <p align="center">
-  <img src="gif.gif" alt="glitch effect" width="100%" style="opacity:0.1; position:absolute; z-index:-1;"/>
+  <img src="gif.gif" alt="glitch effect"/>
 </p>
 
 
