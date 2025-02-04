@@ -4,7 +4,7 @@
 ⨳ c • c++ • python • rust • lua • go  
 
 ⨳ forging artifacts to outlive me  
-⨳ architect of breaches | sculptor of exploits  
+⨳ building relics for a world I despise  
 
 ⨳ trust is a vulnerability.
 ⨳ exploits aren’t just for machines.  
