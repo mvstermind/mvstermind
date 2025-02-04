@@ -7,3 +7,7 @@
 
 ⨳ trust is a vulnerability.
 ⨳ exploits aren’t just for machines.  
+<p align="center">
+  <img src="img.jpg" alt="dark aesthetic" width="400"/>
+</p>
+
