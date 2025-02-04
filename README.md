@@ -6,7 +6,7 @@
 ⨳ forging artifacts to outlive me  
 ⨳ building relics for a world I despise  
 
-⨳ trust is a vulnerability.
+⨳ trust is a vulnerability.  
 ⨳ exploits aren’t just for machines.  
 <p align="center">
   <img src="img.jpg" alt="dark aesthetic" width="400"/>
