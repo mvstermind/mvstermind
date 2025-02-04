@@ -1,5 +1,6 @@
 ⨳ mentally unstable  
-⨳ void walker 
+⨳ void walker
+
 ⨳ c • c++ • python • rust • lua • go  
 
 ⨳ forging artifacts to outlive me  
